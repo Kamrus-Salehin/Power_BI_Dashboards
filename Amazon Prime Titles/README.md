@@ -1,5 +1,5 @@
 This dashboard shows the data of Prime Video titles till 2021. 
 
-![image](https://github.com/user-attachments/assets/f669534b-08a2-4b99-8de1-d710cfb07ba1)
+![image](https://github.com/user-attachments/assets/5364988a-6c41-45db-8378-e38ee0ce90bb)
 
-![image](https://github.com/user-attachments/assets/d216a52b-c80b-4d30-b05e-a8a927ed68c7)
+![image](https://github.com/user-attachments/assets/9e1b0b36-1f5b-4b06-b0d1-86fcb8893a4e)
